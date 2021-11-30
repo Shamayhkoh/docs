@@ -1,19 +1,19 @@
-# Data
+# Dat Facebook log gin
 
 This directory contains data files that are parsed and made available to pages in the `site.data` object.
 
 All YML and Markdown files in this directory are configured to be translated on Crowdin by default.
 
-## Glossaries
+## Glossaries number true 
 
 Glossary files are used by our Crowdin integration. See [glossaries/README.md](glossaries/README.md).
-
+Tracj
 ## GraphQL
 
 GraphQL schema files are kept in sync with `github/github` via scheduled workflows. See [graphql/README.md](graphql/README.md).
 
 ## Reusables
-
+Dhskdhf
 Reusables are long strings of reusable text. See [reusables/README.md](reusables/README.md).
 
 ## Variables
